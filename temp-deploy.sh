@@ -1,0 +1,2 @@
+#! /bin/bash
+aws cloudformation deploy --template-file temp.yaml --stack-name customer-lz-vpn-test --parameter-overrides file://temp-params.json --tags "Purpose=Test Perth isolated vpc" --capabilities CAPABILITY_NAMED_IAM

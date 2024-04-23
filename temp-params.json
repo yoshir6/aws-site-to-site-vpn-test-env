@@ -1,0 +1,20 @@
+[
+    "pOrg=jm2",
+    "pSystem=perth",
+    "pTunnel1PskSecretName=lz-test-psk-tun1",
+    "pTunnel1VgwOutsideIpAddress=3.33.180.167",
+    "pTunnel1CgwInsideIpAddress=169.254.35.154/30",
+    "pTunnel1VgwInsideIpAddress=169.254.35.153/30",
+    "pTunnel1BgpNeighborIpAddress=169.254.35.153",
+    "pTunnel2PskSecretName=lz-test-psk-tun2",
+    "pTunnel2VgwOutsideIpAddress=75.2.70.181",
+    "pTunnel2CgwInsideIpAddress=169.254.54.146/30",
+    "pTunnel2VgwInsideIpAddress=169.254.54.145/30",
+    "pEipAllocationId=eipalloc-036dad7f0f55853ea",
+    "pTunnel2BgpNeighborIpAddress=169.254.54.145",
+    "pVpcId=vpc-0691ae8eecb3fd3f3",
+    "pVpcCidr=192.168.0.0/22",
+    "pSubnetId=subnet-074214c206f28afdb",
+    "pInstanceVolumeType=gp2",
+    "pInstanceType=c5.2xlarge"
+]
